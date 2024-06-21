@@ -1,3 +1,7 @@
+// Copyright 2024 by mut37581 on Discord.
+// All Rights Reserved.
+// Copy provided here for educational purposes only.
+
 fn main() {
     //selecting the shape
     println!("Choose the correct shape you wish to Calcualate the area for:");
